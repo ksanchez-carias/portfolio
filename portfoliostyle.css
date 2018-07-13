@@ -1,3 +1,24 @@
 body {
-    background:plum
+    background:plum;
+    
+}
+
+.tell {
+    font-size: 25px;
+    background-color:lightgrey;
+    color:darkblue;
+    width: 300px;
+    border: 25px solid paleturquoise;
+    margin:25px;
+    padding: 25px;
+
+}
+.apple{
+    font-size: 25px;
+    background-color:lightblue;
+    color:darkblue;
+    width: 300px;
+    border: 25px solid oldlace;
+    margin:25px;
+    padding:25px;
 }
