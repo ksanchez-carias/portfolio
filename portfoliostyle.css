@@ -1,24 +1,30 @@
 body {
-    background:plum;
-    
+    background: plum;
 }
 
 .tell {
     font-size: 25px;
-    background-color:lightgrey;
-    color:darkblue;
+    background-color: lightgrey;
+    color: darkblue;
     width: 300px;
     border: 25px solid paleturquoise;
-    margin:25px;
+    margin: 25px;
     padding: 25px;
-
+    float: left;
 }
-.apple{
+
+.apple {
     font-size: 25px;
-    background-color:lightblue;
-    color:darkblue;
+    background-color: lightblue;
+    color: rgb(1, 1, 19);
     width: 300px;
     border: 25px solid oldlace;
-    margin:25px;
-    padding:25px;
+    margin: 25px;
+    padding: 25px;
+}
+
+#style {
+    float: right;
+    width: 700px;
+    height: 500px;
 }

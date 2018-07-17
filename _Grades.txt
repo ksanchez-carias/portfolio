@@ -8,7 +8,7 @@ Comment: Great job, you went above and beyond with the different styles.
 
 Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
 
-Grade:  60
+Grade: 60
 
 Comment: You have the image tag correct, and you started to use CSS to try to float the image, but you needed something more to get the image and paragraphs beside each other.
 
