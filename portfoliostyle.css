@@ -11,21 +11,32 @@ body {
     margin: 25px;
     padding: 25px;
     float: left;
-}
-
-.apple {
-    font-size: 40px;
-    background-color: lightblue;
-    color: rgb(1, 1, 19);
-    width: 300px;
-    border: 25px solid oldlace;
-    margin: 25px;
-    padding: 25px;
-    font-family: 'Indie Flower', cursive;  
+    animation-name: appear;
+    animation-duration: 3s;
 }
 
 #style {
     float: right;
     width: 700px;
     height: 500px;
+}
+
+@keyframes appear{
+    0%{
+        transform:scale(0.5);
+        opacity:0;
+    }
+    60%{
+        transform: scale(1.5);
+        opacity: 1;
+    }
+    100%{
+       transform: 2;
+       opacity: 1;
+    }
+}
+
+p{
+    animation-name: appear;
+    animation-duration: 5s
 }
