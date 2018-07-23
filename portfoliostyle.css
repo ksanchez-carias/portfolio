@@ -38,22 +38,25 @@ body {
 }
 
 #header 
-/* unvisited link */
 a:link {
     color: green;
 }
-
-/* visited link */
 a:visited {
     color: green;
 }
-
-/* mouse over link */
 a:hover {
     color: red;
 }
-
-/* selected link */
 a:active {
     color: yellow;
 }
+/*mobile Device*/
+@media only screen
+    and (max-width: 300px){
+        background-color:whitesmoke;
+    }
+/*Desktop*/
+    @media only screen
+    and (max-width:1020px){
+        background-color: whitesmoke;
+    }
