@@ -1,24 +1,25 @@
 body {
-    background: plum;
+    background: whitesmoke;
 }
 
 .tell {
     font-size: 40px;
-    background-color: lightgrey;
+    background-color: \y;
     color: darkblue;
-    width: 300px;
-    border: 25px solid paleturquoise;
+    width: 650px;
+    border: 25px solid rgb(233, 233, 233);
     margin: 25px;
     padding: 25px;
     float: left;
-    animation-name: appear;
-    animation-duration: 3s;
 }
 
 #style {
     float: right;
-    width: 700px;
-    height: 500px;
+    width: 300px;
+    height: 550px;
+    border: 25px solid black;
+    animation-name: appear;
+    animation-duration: 3s;
 }
 
 @keyframes appear{
@@ -36,7 +37,23 @@ body {
     }
 }
 
-p{
-    animation-name: appear;
-    animation-duration: 5s
+#header 
+/* unvisited link */
+a:link {
+    color: green;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
 }
