@@ -51,13 +51,3 @@ a:hover {
 a:active {
     color: yellow;
 }
-/*mobile Device*/
-@media only screen
-    and (max-width:320px){
-        background-color:whitesmoke;
-    }
-/*Desktop*/
-    @media only screen
-    and (max-width:1000px){
-        background-color: whitesmoke;
-    }
