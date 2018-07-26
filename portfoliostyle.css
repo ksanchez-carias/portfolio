@@ -6,17 +6,16 @@ body {
     font-size: 20px;
     background-color: \y;
     color: darkblue;
-    width: 250px;
+    width: 650px;
     border: 25px solid rgb(233, 233, 233);
     margin: 25px;
     padding: 25px;
     float: right;
 }
 
-#style {
+.style {
     float: left;
-    width: 30px
-    px;
+    width: 300px;
     height: 550px;
     border: 25px solid black;
     animation-name: appear;
@@ -40,14 +39,18 @@ body {
 
 #header 
 a:link {
-    color: green;
+    color:darkblue;
 }
 a:visited {
-    color: green;
+    color: darkblue;
 }
 a:hover {
-    color: red;
+    color: lightskyblue;
 }
 a:active {
-    color: yellow;
+    color:purple;
+}
+.Hello {
+    width: 800px; 
+    height: 900px; 
 }
