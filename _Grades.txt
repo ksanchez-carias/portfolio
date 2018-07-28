@@ -1,0 +1,39 @@
+Portfolio final grade: 99
+
+Comments:  Great job!  Your code is very clean and formatted, very few errors, and shows a strong understanding of HTML and CSS.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 92
+(50% of overall grade)
+
+Points deducted for these items:
+    -4 <h1> tag in <head> instead of <body> on all pages.
+    -2 .tell background-color css broken
+    -2 @keyframes 100% transform css broken
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+    none
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 112
+(25% of overall grade)
+
+Points deducted for these items:
+    none
+
+Bonus points awarded for these items:
+    +10 for inclusion of both animation and css transitions
+    +2 for proper use of css pseudo classes not covered in class.
