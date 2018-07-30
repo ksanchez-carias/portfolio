@@ -1,4 +1,4 @@
-Portfolio final grade: 99
+Portfolio final grade: 102
 
 Comments:  Great job!  Your code is very clean and formatted, very few errors, and shows a strong understanding of HTML and CSS.
 
@@ -28,12 +28,13 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 112
+Grade: 122
 (25% of overall grade)
 
 Points deducted for these items:
     none
 
-Bonus points awarded for these items:
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
     +10 for inclusion of both animation and css transitions
     +2 for proper use of css pseudo classes not covered in class.
